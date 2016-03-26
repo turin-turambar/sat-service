@@ -50,11 +50,14 @@
 		</div>
 	</div>
 	<div class = "row">
+	<div class="small-5 columns">
+	<input id="checkbox2" type="checkbox"><label for="checkbox2">Remember me</label>
 		<div class="input-group-button">
 			<input type="submit" class="button" value="Log in">
 		</div>
+		</div>
 	</div>
-	</form>
+	</form>`
 	<script src="foundation-6/js/vendor/jquery.min.js"></script>
     <script src="foundation-6/js/vendor/what-input.min.js"></script>
     <script src="foundation-6/js/foundation.min.js"></script>
