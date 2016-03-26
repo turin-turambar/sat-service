@@ -50,9 +50,9 @@
 		</div>
 	</div>
 	<div class = "row">
-	<div class="small-5 columns">
-	<input id="checkbox2" type="checkbox"><label for="checkbox2">Remember me</label>
-		<div class="input-group-button">
+	<div class="small-2 columns">
+	<input id="checkbox2" type="checkbox" class="middle"><label for="checkbox2">Remember me</label>
+		<div class="small-5 columns input-group-button">
 			<input type="submit" class="button" value="Log in">
 		</div>
 		</div>
